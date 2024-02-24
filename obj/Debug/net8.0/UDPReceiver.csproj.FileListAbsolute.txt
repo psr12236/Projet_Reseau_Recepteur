@@ -1,0 +1,14 @@
+C:\Users\marcl\source\repos\psr12236\Projet_Reseau\Receiver\UDPReceiver\bin\Debug\net8.0\UDPReceiver.exe
+C:\Users\marcl\source\repos\psr12236\Projet_Reseau\Receiver\UDPReceiver\bin\Debug\net8.0\UDPReceiver.deps.json
+C:\Users\marcl\source\repos\psr12236\Projet_Reseau\Receiver\UDPReceiver\bin\Debug\net8.0\UDPReceiver.runtimeconfig.json
+C:\Users\marcl\source\repos\psr12236\Projet_Reseau\Receiver\UDPReceiver\bin\Debug\net8.0\UDPReceiver.dll
+C:\Users\marcl\source\repos\psr12236\Projet_Reseau\Receiver\UDPReceiver\bin\Debug\net8.0\UDPReceiver.pdb
+C:\Users\marcl\source\repos\psr12236\Projet_Reseau\Receiver\UDPReceiver\obj\Debug\net8.0\UDPReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcl\source\repos\psr12236\Projet_Reseau\Receiver\UDPReceiver\obj\Debug\net8.0\UDPReceiver.AssemblyInfoInputs.cache
+C:\Users\marcl\source\repos\psr12236\Projet_Reseau\Receiver\UDPReceiver\obj\Debug\net8.0\UDPReceiver.AssemblyInfo.cs
+C:\Users\marcl\source\repos\psr12236\Projet_Reseau\Receiver\UDPReceiver\obj\Debug\net8.0\UDPReceiver.csproj.CoreCompileInputs.cache
+C:\Users\marcl\source\repos\psr12236\Projet_Reseau\Receiver\UDPReceiver\obj\Debug\net8.0\UDPReceiver.dll
+C:\Users\marcl\source\repos\psr12236\Projet_Reseau\Receiver\UDPReceiver\obj\Debug\net8.0\refint\UDPReceiver.dll
+C:\Users\marcl\source\repos\psr12236\Projet_Reseau\Receiver\UDPReceiver\obj\Debug\net8.0\UDPReceiver.pdb
+C:\Users\marcl\source\repos\psr12236\Projet_Reseau\Receiver\UDPReceiver\obj\Debug\net8.0\UDPReceiver.genruntimeconfig.cache
+C:\Users\marcl\source\repos\psr12236\Projet_Reseau\Receiver\UDPReceiver\obj\Debug\net8.0\ref\UDPReceiver.dll
